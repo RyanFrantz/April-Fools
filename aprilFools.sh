@@ -9,7 +9,7 @@
 control_c() {
   # run if user hits control-C
   echo -en "\n\n!!!!!!!!!!!!!!!!!!!!"
-  echo -en "\nBITCH!!  You can't STOP this!  It's inevitable...\n"
+  echo -en "\nSUCKA!!  You can't STOP this!  It's inevitable...\n"
   echo -e "\nyouve been haX0red by robotech yashimaru autonomous nanobots!! 1337!\n"
   echo -en "!!!!!!!!!!!!!!!!!!!!\n\n"
 } # end control_c()
